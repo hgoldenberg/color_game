@@ -1,0 +1,79 @@
+.square{
+    float: left;
+    width: 30%;
+    height: 0;
+    padding-bottom: 30%;
+    margin: 1.5%;
+    background-color: darkgreen;
+    border-radius: 10%;
+  }
+
+.container{
+    max-width: 600px;
+    margin: 20px auto;
+  }
+
+body{
+    background-color: #232323;    
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+  }
+  
+
+h1{
+color:white;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+text-transform: uppercase;
+}
+
+#colorDisplay{
+  text-transform: uppercase;
+  font-size: 35px;
+  text-align: center;
+}
+
+#message{
+  color:black;
+}
+
+#stripe{
+  background-color: white;
+  height: 30px;
+  text-align: center;
+}
+
+#reset{
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: center;
+  font-size: inherit;
+  color: steelblue;
+}
+
+
+.selected{
+  
+  color: white;
+
+}
+
+#easyBtn {
+  font-family:'Montserrat', sans-serif ;
+  font-weight: bold;
+  color: steelblue;
+  text-transform: uppercase;
+  font-size: inherit;
+}
+
+#hardBtn {
+  font-family:'Montserrat', sans-serif ;
+  font-weight: bold;
+  color: steelblue;
+  text-transform: uppercase;
+  font-size: inherit;
+}
+
+
+
